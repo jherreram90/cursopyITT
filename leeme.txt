@@ -1,0 +1,7 @@
+Para usar el repositorio del curso: 
+
+1.-Genera una rama del repo usando tus primeras dos letras de cada apelllido y nombre como sigue: HeMaJoAl.
+2.-Anexa los códigos que se han dejado de ejercicio o de tarea por separado y actualiza tu rama, usa la nomenclatura ej1, ej2, etc., 
+   dependiendo del trabajo, tarea o ejercicio que reportarás.
+3.-Cada rama es personalizada, no uses ramas de tus compañeros para reportar tus actividades. 
+
